@@ -1,4 +1,4 @@
-# Breath-of-Fire-2-Monster-Editor
+# Breath of Fire 2 Monster Editor
 This is a monster Editor for the SNES game Breath of Fire 2 made in C#
 
 ## What it does
