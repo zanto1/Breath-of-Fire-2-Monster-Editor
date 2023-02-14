@@ -1,0 +1,9 @@
+D:\Games\SNES\BoF2\Editor\7thSagaEditor\bin\Debug\BoF2Editor.exe
+D:\Games\SNES\BoF2\Editor\7thSagaEditor\bin\Debug\BoF2Editor.pdb
+D:\Games\SNES\BoF2\Editor\7thSagaEditor\obj\Debug\ResolveAssemblyReference.cache
+D:\Games\SNES\BoF2\Editor\7thSagaEditor\obj\Debug\BoF2Editor.Properties.Resources.resources
+D:\Games\SNES\BoF2\Editor\7thSagaEditor\obj\Debug\BoF2Editor.csproj.GenerateResource.Cache
+D:\Games\SNES\BoF2\Editor\7thSagaEditor\obj\Debug\BoF2Editor.exe
+D:\Games\SNES\BoF2\Editor\7thSagaEditor\obj\Debug\BoF2Editor.pdb
+D:\Games\SNES\BoF2\Editor\7thSagaEditor\obj\Debug\BoF2Editor.Form1.resources
+D:\Games\SNES\BoF2\Editor\7thSagaEditor\obj\Debug\BoF2Editor.AboutBox1.resources
